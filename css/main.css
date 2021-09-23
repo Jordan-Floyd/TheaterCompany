@@ -1,0 +1,81 @@
+.navbar{
+    
+    background-color: black;
+    text-decoration: none;
+    text-align: center;
+    height: 50px;
+    text-decoration: none;
+    font-size: small;
+        
+}
+
+#griot {
+    color: white;
+    word-spacing: normal;
+    padding: 5px;
+
+}
+
+#link {
+    color: white;
+    text-decoration: none;
+    
+
+}
+
+.navbar1{
+    text-decoration: none;
+}
+
+.h2{
+    text-align: left;
+    font-size: medium;
+    word-spacing: normal;
+
+}
+
+.bg{
+    width: 100%;
+    text-align: center;
+    text-align: top;
+    
+
+
+}
+
+.bg>img{
+    width: 100%;
+}
+
+
+#Feat{
+    position: relative;
+    bottom: 500px;
+    color: white;
+    font-size: 100px;
+    font-weight: lighter;
+
+}
+
+
+    
+#ReadMore{
+    color: white;
+    border-color: rgb(248, 189, 79);
+    background-color: rgb(248, 189, 79);
+    align-self: middle;
+
+
+}
+
+#footer{
+    background-color: black;
+    margin: 0%;
+    color: white;
+    
+}
+
+.row1{
+    color: white;
+    
+}
